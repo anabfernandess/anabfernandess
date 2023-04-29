@@ -1,7 +1,7 @@
-### Olá! Eu sou Beatriz Fernandes! 🦊
+### Olá, me chamo Beatriz Fernandes! 🦊
 
-- 👩‍💻 Trabalho com Front-End
-- 📚 Estudando Ciência da Computação.
+- 👩‍💻 Atualmente me dedico a cursos na área do Front-End
+- 📚 Estou estudando Ciência da Computação
 - 😄 Ela/Dela.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/biatpm)
