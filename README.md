@@ -1,4 +1,4 @@
-### Olá, eu sou Beatriz Fernandes! 🦊
+### Olá! Eu sou Beatriz Fernandes! 🦊
 
 - 👩‍💻 Trabalho com Front-End
 - 📚 Estudando Ciência da Computação.
