@@ -1,7 +1,7 @@
 # 👋 Bem-vindo ao meu GitHub!
 
 ## 🚀 Sobre Mim  
-Olá! Sou Beatriz Fernandes, um bacharelanda em Engenharia de Software, apaixonado pela área de CyberSecurity e Dev, mais preciso Front-End. Adoro resolver problemas complexos, aprender novas tecnologias e criar soluções que impactam positivamente as pessoas e as empresas.
+Olá! <b>Sou Beatriz Fernandes, um bacharelanda em Engenharia de Software, apaixonado pela área de CyberSecurity e Dev, mais preciso Front-End. Adoro resolver problemas complexos, aprender novas tecnologias e criar soluções que impactam positivamente as pessoas e as empresas.</b>
 
 - 🌱 Atualmente, estou explorando **Programação.**.    
 - 💡 Sempre em busca de colaborar em projetos desafiadores.  
@@ -30,10 +30,20 @@ Aqui estão algumas das tecnologias e ferramentas com as quais trabalho:
 
 ## 📫 Vamos nos conectar!  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/anabfernandes)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/biatpm)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/biatpm)  
-[![E-mail](https://img.shields.io/badge/-E--mail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](anabfernandes_@hotmail.com)  
+<div align="center">
+  <a href="https://linkedin.com/in/anabfernandes">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
+  </a>
+  <a href="https://instagram.com/biatpm">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram">
+  </a>
+  <a href="https://twitter.com/biatpm">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter">
+  </a>
+  <a href="anabfernandes_@hotmail.com">
+    <img src="https://img.shields.io/badge/-E--mail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="E-mail">
+  </a>
+</div>
 
 ---
 
