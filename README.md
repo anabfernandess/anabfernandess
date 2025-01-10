@@ -1,7 +1,8 @@
 # 👋 Bem-vindo ao meu GitHub!
 
 ## 🚀 Sobre Mim  
-Olá! <b>Sou Beatriz Fernandes, um bacharelanda em Engenharia de Software, apaixonado pela área de CyberSecurity e Dev, mais preciso Front-End. Adoro resolver problemas complexos, aprender novas tecnologias e criar soluções que impactam positivamente as pessoas e as empresas.</b>
+Olá! <br><b>Sou Beatriz Fernandes</b>, um bacharelanda em Engenharia de Software, apaixonada pela área de CyberSecurity e Dev, mais preciso Front-End.</br> <br>Adoro resolver problemas complexos, aprender novas tecnologias e criar soluções que impactam positivamente as pessoas e as empresas.</br>
+
 
 - 🌱 Atualmente, estou explorando **Programação.**.    
 - 💡 Sempre em busca de colaborar em projetos desafiadores.  
