@@ -1,6 +1,6 @@
 #  👩🏻‍💻 Beatriz Fernandes 
 
-Atualmente, estou focada em linguagens de programação e me dedicando ao máximo à área de desenvolvimento. <br>Apaixonada por tecnologia, estou sempre em busca de aprendizado e aprimoramento para construir soluções eficientes e inovadoras. <br>Acredito que a programação é uma arte que transforma ideias em realidade, e estou determinada a evoluir cada dia mais nesse universo!
+Me chamo Beatriz, tenho 29 anos e sou estudante de Engenharia de Software. <br>Atualmente, estou focada em linguagens de programação e me dedicando ao máximo à área de desenvolvimento. <br>Apaixonada por tecnologia, estou sempre em busca de aprendizado e aprimoramento para construir soluções eficientes e inovadoras. <br>Acredito que a programação é uma arte que transforma ideias em realidade, e estou determinada a evoluir cada dia mais nesse universo!
 
 
 ### 🤖 Linguagens e Tecnologias
