@@ -44,3 +44,4 @@ Atualmente, estou focada em linguagens de programação e me dedicando ao máxim
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+<img width="30" height="30" src="https://img.icons8.com/pulsar-color/48/mysql.png" alt="mysql"/>
