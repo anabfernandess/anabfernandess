@@ -1,17 +1,14 @@
-# 👋 Olá, eu sou a Beatriz Fernandes
+#  Beatriz Fernandes
 
 🎓 Graduanda em Engenharia de Software
-
 💻 Profissional de Tecnologia da Informação
-
 📍 Rio de Janeiro - RJ
 
 ---
 
-## Sobre
+## About
 
 Atuo na área de Tecnologia da Informação, com experiência em suporte técnico, Field Service, infraestrutura e automação de processos.
-
 Atualmente, direciono minha carreira para o desenvolvimento de software, aplicando na prática conhecimentos em desenvolvimento Full Stack por meio da construção de aplicações com React, TypeScript, ASP.NET Core, Entity Framework Core e SQL.
 
 Neste perfil compartilho projetos desenvolvidos durante minha trajetória de aprendizado, sempre buscando aplicar boas práticas de desenvolvimento, organização de código e soluções voltadas para problemas reais.
@@ -130,6 +127,6 @@ Neste perfil compartilho projetos desenvolvidos durante minha trajetória de apr
 
 Aplicação Full Stack desenvolvida utilizando **React**, **TypeScript**, **ASP.NET Core**, **Entity Framework Core** e **SQLite**, permitindo o gerenciamento de receitas, despesas e pessoas por meio de um dashboard interativo com gráficos e indicadores financeiros.
 
-➡️ **Repositório:** *(coloque aqui o link)*
+➡️ **Repositório:** *https://github.com/anabfernandess/controle-gastos-residenciais*
 
 ---
