@@ -1,7 +1,9 @@
 #  Beatriz Fernandes
 
 🎓 Graduanda em Engenharia de Software
+
 💻 Profissional de Tecnologia da Informação
+
 📍 Rio de Janeiro - RJ
 
 ---
