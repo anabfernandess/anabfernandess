@@ -6,8 +6,6 @@
 
 ---
 
-## About
-
 Atuo na área de Tecnologia da Informação, com experiência em suporte técnico, Field Service, infraestrutura e automação de processos.
 Atualmente, direciono minha carreira para o desenvolvimento de software, aplicando na prática conhecimentos em desenvolvimento Full Stack por meio da construção de aplicações com React, TypeScript, ASP.NET Core, Entity Framework Core e SQL.
 
