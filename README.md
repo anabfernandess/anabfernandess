@@ -1,4 +1,3 @@
-https://capsule-render.vercel.app/api?type=wave&height=300&section=header&reversal=false
 #  Beatriz Fernandes
 
 🎓 Graduanda em Engenharia de Software
