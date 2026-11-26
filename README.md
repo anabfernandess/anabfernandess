@@ -1,7 +1,7 @@
-<p><strong>Beatriz Fernandes</strong><br>
-<sub>Automação de Processos | Integração de Sistemas</sub></p>
+<h1>Beatriz Fernandes<br>
+<sub><sub>Automação de Processos | Integração de Sistemas</sub></sub>
+</h1>
 
-<hr>
 
 
 
