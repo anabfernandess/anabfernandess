@@ -1,6 +1,7 @@
-# Beatriz Fernandes
+<h1>Beatriz Fernandes<br>
+<sub>Automação de Processos | Integração de Sistemas</sub>
+</h1>
 
-**Automação de Processos | Integração de Sistemas**
 
 Profissional de TI e graduanda em Engenharia de Software, com experiência em automação de processos e operações de TI em ambientes corporativos.
 
